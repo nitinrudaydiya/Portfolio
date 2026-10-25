@@ -2,7 +2,7 @@
 
 A responsive, fully static personal portfolio built with plain HTML, CSS and JavaScript. It has no frameworks, no build step and no dependencies, so it works by opening `index.html` in a browser.
 
-**Live site:** https://nitin-patel-portfolio.vercel.app/
+**Live site:** https://nitinpatel-dev.vercel.app/
 
 ---
 
