@@ -92,9 +92,6 @@ To use a local server instead, run `python -m http.server 8000` and visit `http:
 2. Set **Framework Preset** to **Other** and leave the build command and output directory empty.
 3. Deploy. The entry file must be named `index.html` and sit at the root of the repository.
 
-### Netlify
-
-Drag the project folder onto [Netlify Drop](https://app.netlify.com/drop) to publish it instantly.
 
 ## Contact
 
